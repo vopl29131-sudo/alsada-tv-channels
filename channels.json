@@ -1,3 +1,8 @@
 {
-  "channels": []
+  "channels": [
+    {
+      "name": "قناة الجزيرة",
+      "url": "https://live-hls-web-aja.getaj.net/AJA/01.m3u8"
+    }
+  ]
 }
