@@ -1,11 +1,14 @@
-{    {
+{
+  "movies": [
+    {
       "name": "فلم الرسالة",
       "url": "https://www.youtube.com/watch?v=-rbEgD5xXCI",
       "image": "https://img.youtube.com/vi/-rbEgD5xXCI/hqdefault.jpg"
+    },
+    {
+      "name": "القربان",
+      "url": "https://youtu.be/QS0TECOFgFE",
+      "image": "https://img.youtube.com/vi/QS0TECOFgFE/hqdefault.jpg"
     }
-},
-{
-  "name": "القربان",
-  "url": "https://youtu.be/QS0TECOFgFE",
-  "image": "https://img.youtube.com/vi/QS0TECOFgFE/hqdefault.jpg"
+  ]
 }
