@@ -3,12 +3,12 @@
     {
       "name": "قناة الجزيرة",
       "url": "https://live-hls-web-aja.getaj.net/AJA/01.m3u8",
-      "image": "رابط_شعار_الجزيرة"
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aljazeera_logo.png"
     },
     {
       "name": "قناة العربية",
       "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8",
-      "image": "رابط_شعار_العربية"
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Al_Arabiya_-Logo_%281%29.png"
     }
   ]
 }
