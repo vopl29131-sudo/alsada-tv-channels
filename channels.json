@@ -14,6 +14,11 @@
       "name": "قناة عراق المستقبل",
       "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_040/Stream/playlist.m3u8",
       "image": "https://raw.githubusercontent.com/vopl29131-sudo/alsada-tv-channels/main/iraqalmustaqbal.png"
+    },
+    {
+      "name": "قناة دجلة",
+      "url": "https://ghaasiflu.online/Dijlah/index.m3u8",
+      "image": "https://raw.githubusercontent.com/vopl29131-sudo/alsada-tv-channels/main/dijlah.png"
     }
   ]
 }
