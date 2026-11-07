@@ -1,9 +1,9 @@
 {
   "channels": [
     {
-      "name": "اسم القناة الرياضية",
-      "url": "رابط البث المباشر",
-      "image": "رابط شعار القناة"
+      "name": "قناة الملاكمة",
+      "url": "https://rpn.bozztv.com/gusa/gusa-tvsboxing/index.m3u8",
+      "image": "https://raw.githubusercontent.com/vopl29131-sudo/alsada-tv-channels/main/boxing.png"
     }
   ]
 }
