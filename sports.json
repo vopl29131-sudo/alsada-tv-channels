@@ -1,4 +1,3 @@
-
 {
   "channels": [
     {
@@ -9,6 +8,36 @@
     {
       "name": "ALWAN SPORT 1",
       "url": "https://young-art-29e6.yusf-dara1000.workers.dev/?channel=1",
+      "image": ""
+    },
+    {
+      "name": "ALWAN SPORT 2",
+      "url": "https://young-art-29e6.yusf-dara1000.workers.dev/?channel=2",
+      "image": ""
+    },
+    {
+      "name": "ALWAN SPORT 3",
+      "url": "https://young-art-29e6.yusf-dara1000.workers.dev/?channel=3",
+      "image": ""
+    },
+    {
+      "name": "ALWAN SPORT 4",
+      "url": "https://young-art-29e6.yusf-dara1000.workers.dev/?channel=4",
+      "image": ""
+    },
+    {
+      "name": "ALWAN SPORT 5",
+      "url": "https://young-art-29e6.yusf-dara1000.workers.dev/?channel=5",
+      "image": ""
+    },
+    {
+      "name": "ALWAN SPORT 6",
+      "url": "https://young-art-29e6.yusf-dara1000.workers.dev/?channel=6",
+      "image": ""
+    },
+    {
+      "name": "ALWAN SPORT 7",
+      "url": "https://young-art-29e6.yusf-dara1000.workers.dev/?channel=7",
       "image": ""
     }
   ]
