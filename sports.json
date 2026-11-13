@@ -1,3 +1,4 @@
+
 {
   "channels": [
     {
@@ -39,6 +40,12 @@
       "name": "ALWAN SPORT 7",
       "url": "https://young-art-29e6.yusf-dara1000.workers.dev/?channel=7",
       "image": ""
+    },
+    {
+      "name": "قناة الإنترنت الضعيف 240p / 480p",
+      "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_024/Stream/playlist.m3u8",
+      "image": "",
+      "lowData": true
     }
   ]
 }
