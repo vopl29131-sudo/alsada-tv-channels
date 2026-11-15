@@ -25,6 +25,11 @@
       "name": "اختبار MPEG-TS",
       "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/v3/prog_index.m3u8",
       "image": ""
+    },
+    {
+      "name": "اختبار TS مباشر",
+      "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/v3/fileSequence0.ts",
+      "image": ""
     }
   ]
 }
