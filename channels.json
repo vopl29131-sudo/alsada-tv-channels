@@ -1,3 +1,4 @@
+
 {
   "channels": [
     {
@@ -19,6 +20,11 @@
       "name": "قناة دجلة",
       "url": "https://ghaasiflu.online/Dijlah/index.m3u8",
       "image": "https://raw.githubusercontent.com/vopl29131-sudo/alsada-tv-channels/main/dijlah.png"
+    },
+    {
+      "name": "اختبار MPEG-TS",
+      "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/v3/prog_index.m3u8",
+      "image": ""
     }
   ]
 }
