@@ -2,64 +2,24 @@
 {
   "channels": [
     {
-      "name": "قناة الملاكمة",
-      "url": "https://rpn.bozztv.com/gusa/gusa-tvsboxing/index.m3u8",
-      "image": "https://raw.githubusercontent.com/vopl29131-sudo/alsada-tv-channels/main/boxing.png"
+      "name": "قناة الجزيرة",
+      "url": "https://live-hls-web-aja.getaj.net/AJA/01.m3u8",
+      "image": "https://i.imgur.com/BB93NQP.png"
     },
     {
-      "name": "ALWAN SPORT 1",
-      "url": "https://young-art-29e6.yusf-dara1000.workers.dev/?channel=1",
-      "image": ""
+      "name": "قناة العربية",
+      "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Al-Arabiya_new_logo.svg/640px-Al-Arabiya_new_logo.svg.png"
     },
     {
-      "name": "ALWAN SPORT 2",
-      "url": "https://young-art-29e6.yusf-dara1000.workers.dev/?channel=2",
-      "image": ""
+      "name": "قناة عراق المستقبل",
+      "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_040/Stream/playlist.m3u8",
+      "image": "https://i.imgur.com/Z7woTe5.png"
     },
     {
-      "name": "ALWAN SPORT 3",
-      "url": "https://young-art-29e6.yusf-dara1000.workers.dev/?channel=3",
-      "image": ""
-    },
-    {
-      "name": "ALWAN SPORT 4",
-      "url": "https://young-art-29e6.yusf-dara1000.workers.dev/?channel=4",
-      "image": ""
-    },
-    {
-      "name": "ALWAN SPORT 5",
-      "url": "https://young-art-29e6.yusf-dara1000.workers.dev/?channel=5",
-      "image": ""
-    },
-    {
-      "name": "ALWAN SPORT 6",
-      "url": "https://young-art-29e6.yusf-dara1000.workers.dev/?channel=6",
-      "image": ""
-    },
-    {
-      "name": "ALWAN SPORT 7",
-      "url": "https://young-art-29e6.yusf-dara1000.workers.dev/?channel=7",
-      "image": ""
-    },
-    {
-      "name": "قناة الإنترنت الضعيف 240p / 480p",
-      "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_024/Stream/playlist.m3u8",
-      "image": "",
-      "lowData": true
-    },
-    {
-      "name": "Real Madrid TV",
-      "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8",
-      "image": "",
-      "codec": "h264",
-      "lowData": false
-    },
-    {
-      "name": "beIN Sports Xtra",
-      "url": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8",
-      "image": "",
-      "codec": "h264",
-      "lowData": false
+      "name": "قناة دجلة",
+      "url": "https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8",
+      "image": "https://dijlah.tv/LogoMob.png"
     }
   ]
 }
