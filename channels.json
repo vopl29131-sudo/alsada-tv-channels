@@ -2,34 +2,64 @@
 {
   "channels": [
     {
-      "name": "قناة الجزيرة",
-      "url": "https://live-hls-web-aja.getaj.net/AJA/01.m3u8",
-      "image": "https://raw.githubusercontent.com/vopl29131-sudo/alsada-tv-channels/main/aljazeera.png"
+      "name": "قناة الملاكمة",
+      "url": "https://rpn.bozztv.com/gusa/gusa-tvsboxing/index.m3u8",
+      "image": "https://raw.githubusercontent.com/vopl29131-sudo/alsada-tv-channels/main/boxing.png"
     },
     {
-      "name": "قناة العربية",
-      "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Al_Arabiya_-Logo_%281%29.png"
-    },
-    {
-      "name": "قناة عراق المستقبل",
-      "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_040/Stream/playlist.m3u8",
-      "image": "https://raw.githubusercontent.com/vopl29131-sudo/alsada-tv-channels/main/iraqalmustaqbal.png"
-    },
-    {
-      "name": "قناة دجلة",
-      "url": "https://ghaasiflu.online/Dijlah/index.m3u8",
-      "image": "https://raw.githubusercontent.com/vopl29131-sudo/alsada-tv-channels/main/dijlah.png"
-    },
-    {
-      "name": "اختبار MPEG-TS",
-      "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/v3/prog_index.m3u8",
+      "name": "ALWAN SPORT 1",
+      "url": "https://young-art-29e6.yusf-dara1000.workers.dev/?channel=1",
       "image": ""
     },
     {
-      "name": "اختبار TS مباشر",
-      "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/v3/fileSequence0.ts",
+      "name": "ALWAN SPORT 2",
+      "url": "https://young-art-29e6.yusf-dara1000.workers.dev/?channel=2",
       "image": ""
+    },
+    {
+      "name": "ALWAN SPORT 3",
+      "url": "https://young-art-29e6.yusf-dara1000.workers.dev/?channel=3",
+      "image": ""
+    },
+    {
+      "name": "ALWAN SPORT 4",
+      "url": "https://young-art-29e6.yusf-dara1000.workers.dev/?channel=4",
+      "image": ""
+    },
+    {
+      "name": "ALWAN SPORT 5",
+      "url": "https://young-art-29e6.yusf-dara1000.workers.dev/?channel=5",
+      "image": ""
+    },
+    {
+      "name": "ALWAN SPORT 6",
+      "url": "https://young-art-29e6.yusf-dara1000.workers.dev/?channel=6",
+      "image": ""
+    },
+    {
+      "name": "ALWAN SPORT 7",
+      "url": "https://young-art-29e6.yusf-dara1000.workers.dev/?channel=7",
+      "image": ""
+    },
+    {
+      "name": "قناة الإنترنت الضعيف 240p / 480p",
+      "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_024/Stream/playlist.m3u8",
+      "image": "",
+      "lowData": true
+    },
+    {
+      "name": "Real Madrid TV",
+      "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8",
+      "image": "",
+      "codec": "h264",
+      "lowData": false
+    },
+    {
+      "name": "beIN Sports Xtra",
+      "url": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8",
+      "image": "",
+      "codec": "h264",
+      "lowData": false
     }
   ]
 }
