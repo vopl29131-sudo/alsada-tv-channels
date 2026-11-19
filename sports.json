@@ -1,4 +1,3 @@
-
 {
   "channels": [
     {
@@ -58,6 +57,13 @@
       "name": "beIN Sports Xtra",
       "url": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8",
       "image": "",
+      "codec": "h264",
+      "lowData": false
+    },
+    {
+      "name": "Sky Sports Premier League",
+      "url": "",
+      "image": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1303.png",
       "codec": "h264",
       "lowData": false
     }
