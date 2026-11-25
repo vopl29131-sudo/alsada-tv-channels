@@ -1,3 +1,4 @@
+
 {
   "channels": [
     {
@@ -64,6 +65,13 @@
       "name": "Sky Sports Premier League",
       "url": "",
       "image": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1303.png",
+      "codec": "h264",
+      "lowData": false
+    },
+    {
+      "name": "Canal+ Sport قناة فرنسا الرياضية ",
+      "url": "acestream://3e87464ed8c42ed14464461ea08860a3040a8944",
+      "image": "",
       "codec": "h264",
       "lowData": false
     }
